@@ -3,9 +3,9 @@ ________
 
 ## Description
 
-**The problem: ** UPI and other payment solutions becoming more and more relevant day by day, we tend to spend money quickly. So an internet and localstorage based solution to keep a track of your income and expense.
+**The problem:** UPI and other payment solutions becoming more and more relevant day by day, we tend to spend money quickly. So an internet and localstorage based solution to keep a track of your income and expense.
 
-**Technologies used: ** HTML, CSS and Javascript
+**Technologies used:** HTML, CSS and Javascript
 
 ## Prerequisits
 
